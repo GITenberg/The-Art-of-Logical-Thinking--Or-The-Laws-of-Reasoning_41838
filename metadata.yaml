@@ -1,0 +1,42 @@
+_repo: The-Art-of-Logical-Thinking--Or-The-Laws-of-Reasoning_41838
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41838-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Atkinson, William Walker
+    aliases:
+    - Panchadasi, Swami
+    - Vishita, Bhakta
+    - Ramacharaka, Yogi
+    birthdate: 1862
+    deathdate: 1932
+    gutenberg_agent_id: '4862'
+    url: http://www.gutenberg.org/2009/agents/4862
+    wikipedia:
+    - http://www.gutenberg.org/browse/authors/d#a662
+    - http://www.gutenberg.org/browse/authors/t#a5407
+    - http://en.wikipedia.org/wiki/William_Walker_Atkinson
+description: Working under an array of pseudonyms and pen names, author and thinker
+  William Walker Atkinson produced a prodigious body of influential work during his
+  lifetime. Among other accomplishments, Atkinson is credited with developing the
+  ""New Thought"" movement that has come back into vogue in recent years with the
+  publication of The Secret. In this volume, Atkinson makes a compelling case for
+  the need for rational thought and reasoning, and sets forth guidelines and examples
+  to help...
+gutenberg_issued: '2013-01-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41838'
+  lccn: '10006725'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Logic'
+- !lcsh 'Reasoning'
+- !lcc 'BC'
+title: The Art of Logical Thinking; Or, The Laws of Reasoning
+url: http://www.gutenberg.org/ebooks/41838
